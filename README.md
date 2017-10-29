@@ -42,6 +42,6 @@ Example
 
 Enjoy :)
 
-See also [ukraine.sh] (https://github.com/vvg/ukraine.com.ua). Script for hosting company.
+See also [ukraine.sh] (https://github.com/vgul/ukraine.com.ua). Script for hosting company.
 
 
