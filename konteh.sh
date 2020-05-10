@@ -159,7 +159,7 @@ function get_data {
 
     echo "${URL}" > ${INVOKE_DATA_DIR}/${MARKER}.url
 
-    CURL_CMD="curl \
+    CURL_CMD="curl -k \
                     --verbose \
                     --request ${METHOD} \
                     --dump-header ${DUMP_HEADER} \
